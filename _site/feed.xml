@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-03-23T15:19:26+07:00</updated>
+  <updated>2025-03-23T16:03:07+07:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Lập đề xuất thanh toán đơn hàng</title>
+    <link href="http://localhost:4000/posts/lap-de-xuat-thanh-toan/" rel="alternate" type="text/html" title="Lập đề xuất thanh toán đơn hàng" />
+    <published>2025-03-22T00:00:00+07:00</published>
+  
+    <updated>2025-03-22T00:00:00+07:00</updated>
+  
+    <id>http://localhost:4000/posts/lap-de-xuat-thanh-toan/</id>
+    <content type="text/html" src="http://localhost:4000/posts/lap-de-xuat-thanh-toan/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Quản lý đơn hàng" />
+    
+  
+
+  <summary>Nhân viên bán hàng: Lập đề xuất thanh toán ==&amp;amp;gt; Nhân viên thu: Lập phiếu thu theo phiếu đề xuất thanh toán  Đề xuất thanh toán   Lập đề xuất thanh toán   Lập phiếu thu</summary>
+
+  </entry>
 
 </feed>
 
